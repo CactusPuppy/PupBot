@@ -11,5 +11,12 @@
 
     <artifactId>PupBot-Standalone</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>usa.cactuspuppy.PupBot</groupId>
+            <artifactId>PupBotAPI</artifactId>
+            <version>0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>

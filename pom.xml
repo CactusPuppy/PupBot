@@ -9,8 +9,8 @@
     <packaging>pom</packaging>
     <version>0.1-SNAPSHOT</version>
     <modules>
-        <module>PupBotAPI</module>
-        <module>PupBot-Standalone</module>
+        <module>API</module>
+        <module>Standalone</module>
     </modules>
 
 
